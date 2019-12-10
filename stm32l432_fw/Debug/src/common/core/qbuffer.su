@@ -1,0 +1,6 @@
+qbuffer.c:15:6:qbufferInit	4	static
+qbuffer.c:20:6:qbufferCreate	32	static
+qbuffer.c:39:6:qbufferWrite	40	static
+qbuffer.c:74:6:qbufferRead	40	static
+qbuffer.c:109:10:qbufferAvailable	24	static
+qbuffer.c:119:6:qbufferFlush	16	static
